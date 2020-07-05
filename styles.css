@@ -1,0 +1,7 @@
+body {
+    background-color: gray;
+}
+#main {
+    margin: auto;
+    display: block;
+}
